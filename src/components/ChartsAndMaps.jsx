@@ -122,15 +122,13 @@ const ChartsAndMaps = () => {
                       <th>Total Cases</th>
                       <th>Total Deaths</th>
                       <th>Total Recovered</th>
-                      <th>Total Active</th>
-                      <th>Total Critical</th>
+
                     </tr>
                     <tr>
                       <td>{worldWideData.cases}</td>
                       <td>{worldWideData.deaths}</td>
                       <td>{worldWideData.recovered}</td>
-                      <td>{worldWideData.active}</td>
-                      <td>{worldWideData.critical}</td>
+
                     </tr>
                   </table>
                 </p>
