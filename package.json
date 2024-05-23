@@ -2,7 +2,7 @@
   "name": "sudhanshu",
   "version": "0.1.0",
   "private": true,
-   "homepage": "https://techxquad.com/sudhanshu/index.html",
+  "homepage": "https://techxquad.com/sudhanshu/index.html",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.19",
     "@chakra-ui/react": "^2.6.0",
@@ -21,7 +21,7 @@
     "react-leaflet": "^4.2.1",
     "react-redux": "^8.0.5",
     "react-router-dom": "^6.11.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^3.0.1",
     "redux": "^4.2.1",
     "redux-thunk": "^2.4.2",
     "typescript": "^5.0.4",
